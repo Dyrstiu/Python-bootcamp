@@ -24,7 +24,7 @@ quantity = input("How many  "+ selection +" "  )
 quatity2=int(quantity)
 
 bill = quatity2 * price
-print("Your " +selection + " will be ready in a minute 😊 \n " + "Your total bill is $ : " + str(bill) )
+print("Your " +selection + " will be ready in a minute 😊 \n " + "Your total bill is :$  " + str(bill) )
 
 
 
