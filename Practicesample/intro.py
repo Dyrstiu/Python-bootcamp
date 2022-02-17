@@ -14,6 +14,7 @@ print( "i am Poppy \n")
 print("Hello , welcome to Dyrstiu coffee")
 
 name =input("What is your name: ")
+
 print( "Hello " + name + " ,Thanks for comming in today" )
 price = 8
 menu = "Tea ","Coffee", "Muffins","Buns"
@@ -43,4 +44,16 @@ math = 5 ** 7 + 6/9 * 6 - 4
 print(math)
 result = age + actual_age +math 
 print(result)
+
+#EP4
+
+name= input("What is your name  ")
+if name == "Ben":
+    print("Gerra out of here ")
+else: print("welcom")
+
+if 4 > 3 :
+    print("yep its true")
+else:
+    print("Nop , its not true")
 
