@@ -50,10 +50,11 @@ print(result)
 name= input("What is your name  ")
 if name == "Ben":
     print("Gerra out of here ")
-else: print("welcom")
+else: print("welcome")
 
 if 4 > 3 :
     print("yep its true")
 else:
     print("Nop , its not true")
+    
 
